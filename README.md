@@ -2,5 +2,5 @@
 Please go to [Online Tools](/toy/)
 
 ## Contact
-The project's website is located at https://github.com/emn178/online-tools  
+The project's website is located at /toy  
 Author: emn178@gmail.com
